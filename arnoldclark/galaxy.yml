@@ -1,6 +1,6 @@
 namespace: "arnoldclark"
 name: "rails_applications"
-version: "1.0.3"
+version: "1.0.4"
 readme: "README.md"
 authors:
     - "archops (archops@arnoldclark.com)"
